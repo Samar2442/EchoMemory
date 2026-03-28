@@ -1,4 +1,4 @@
-🌟 EchoMemory
+🌟EchoMemory
 
 EchoMemory is a full-stack memory management application that allows users to store, organize, and revisit their personal memories. It includes a web platform (PHP + MySQL) and a mobile client for seamless access anytime, anywhere.
 
